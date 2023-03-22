@@ -26,8 +26,9 @@
 • Level3 : 미션을 깨고 모아온 코인으로 원하는 총기 선택하는 창
 
 
-2. Game Instance 이용한 총기 선택				
- 
+2. Game Instance 이용한 총기 선택	
+<img width="330" alt="그림1" src="https://user-images.githubusercontent.com/101172040/226834517-cc9e0cb9-5cf6-4bde-9834-f1da1a2a5b4a.png">
+
  
 &nbsp;&nbsp;_+ Game Instance ? 게임이 시작되고 끝날때 까지 존재하는 게임 인스턴스에 대한 단 하나의 고급스러운 관리 개체._
 
