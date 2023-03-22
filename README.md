@@ -7,12 +7,12 @@
 
 **\- 스토리 :** 제시되는 지시문을 따라서 주어진 모든 미션을 해결한 뒤, 외계 생명체를 처리하여 마을 사람들을 구하는 게임				
 
-**\- 구성 :**				
+**\- 맵 구성 :**				
 
       
- |<img width="270" alt="햄버거 게임" src="https://user-images.githubusercontent.com/101172040/201835580-7e2e3ed1-739e-4b8c-aa06-67fdb09ec7e8.png"> |<img width="270" alt="중식 조합 맞추기 게임" src="https://user-images.githubusercontent.com/101172040/201835736-ffd8bffb-88b0-40e9-9e6e-2e487d50baca.png">|<img width="270" alt="잡채 만들기 게임" src="https://user-images.githubusercontent.com/101172040/201835783-233e871b-f72a-44ed-930f-976b97be2029.png">|
-|:-----:|:----------:|:-------:
-|햄버거 게임|중식 조합 맞추기 게임|잡채 만들기 게임|
+ | <img width="1017" alt="스크린샷 2023-03-22 오후 5 32 34" src="https://user-images.githubusercontent.com/101172040/226847089-b7207f24-f78d-41a8-923a-f14110a64cd8.png"> |<img width="1017" alt="스크린샷 2023-03-22 오후 5 34 07" src="https://user-images.githubusercontent.com/101172040/226847159-a2eba971-fa60-47ad-bb6a-9d237715bceb.png">|<img width="1017" alt="스크린샷 2023-03-22 오후 5 38 23" src="https://user-images.githubusercontent.com/101172040/226847182-395dd372-715a-4be1-888a-0d5571dab43b.png">|<img width="1017" alt="스크린샷 2023-03-22 오후 5 37 20" src="https://user-images.githubusercontent.com/101172040/226847208-f341c437-a5b7-4237-903e-ed8b800dc899.png">|
+|:-----:|:----------:|:-------:|:-------:|
+|Level1 : 집|Level2 : 경찰서|Level3 : 총기샵|Level4 : 마을|
 
 
 **\- 조작법 :**
