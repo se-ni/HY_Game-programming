@@ -1,5 +1,4 @@
-## *Game-prgramming*
-### :video_game:&nbsp;&nbsp;**Term Project for 2022**&nbsp;&nbsp;:video_game:
+## :video_game:&nbsp;&nbsp;**Term Project for 2022**&nbsp;&nbsp;:video_game:
 **-Team Members**	
 
 **\- Title :** 나만 있는 마을				
@@ -14,6 +13,9 @@
  |<img width="270" alt="햄버거 게임" src="https://user-images.githubusercontent.com/101172040/201835580-7e2e3ed1-739e-4b8c-aa06-67fdb09ec7e8.png"> |<img width="270" alt="중식 조합 맞추기 게임" src="https://user-images.githubusercontent.com/101172040/201835736-ffd8bffb-88b0-40e9-9e6e-2e487d50baca.png">|<img width="270" alt="잡채 만들기 게임" src="https://user-images.githubusercontent.com/101172040/201835783-233e871b-f72a-44ed-930f-976b97be2029.png">|
 |:-----:|:----------:|:-------:
 |햄버거 게임|중식 조합 맞추기 게임|잡채 만들기 게임|
+
+
+**\- 조작법 :**
 
 **<h2>- 주요 구현 기능**</h2>       
 
@@ -44,16 +46,25 @@
 • Level3 에서 선택한 총에 대한 정보가 Game Instance 안에 저장되어, Level4 에서 spawn 될 때 총기 색상에 적용 됨
 
 
-**3. AI 구현**
+**3. AI구현**
+
+
+
+
+
+<img width="330" alt="그림4" src="https://user-images.githubusercontent.com/101172040/226836498-4044d19f-5fe7-4416-bc3c-9f26b9821860.png"><img width="330" alt="그림5" src="https://user-images.githubusercontent.com/101172040/226836528-8e60a2c1-318f-497d-b6f9-6f8cda9db938.png">
+
 
 
 • 마지막 Level : 적들이 무작위로 Spawn 되어, Pawn Sensing Comp.를 통해 플레이어를 봤을때, 다가오는 AI 기능 구현
 
-*****
-**- 구현시 어려웠던 점** 
-1. 햄버거 게임의 부모-자식 없애기
-2. Main Scene 의 Character 움직임 구현 : 구글 참고
-3. 잡채 만들기 게임 마우스 드래그 구현 : 구글 참고
+<h2>구현 시 아쉬웠던 점</h2>
+-Level3 에서 원하는 총을 구매했을때, Level3의 Player에게 총이 부착된 채로 다음 Level로 넘어가도록 구현하지 못함
 
-참고 문서        
-\- [ 캐릭터 이동 ](https://github.com/se-ni/VR-AR-Basics-of-game-creation.git)
+
+-UE5에 대한 정보가 너무 없음                        
+-협업을 위해 프로젝트의 파트를 나눈 뒤, 큰 용량 때문에 폴더를 합치는 과정에서도 어려움이 많았음
+
+
+<h2>참고 문서</h2>        
+[ 캐릭터 이동 ](https://github.com/se-ni/VR-AR-Basics-of-game-creation.git)
